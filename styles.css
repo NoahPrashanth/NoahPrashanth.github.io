@@ -419,7 +419,7 @@ nav .fa-regular, nav .fa-solid{
 @media only screen and (max-width: 600px){
     .main-header{
         display: inline-block;
-        margin-top: -70%;
+        margin-top: -45%;
     }
     .text{
         width: 52%;
