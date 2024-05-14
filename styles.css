@@ -17,7 +17,7 @@ body{
 .text{
     display: inline-block;
     border-right: 5px solid;
-    width: 48%;
+    width: 43%;
     white-space: nowrap;
     overflow: hidden;
     animation: 
@@ -422,7 +422,7 @@ nav .fa-regular, nav .fa-solid{
         margin-top: -70%;
     }
     .text{
-        width: 45%;
+        width: 48%;
     }
     .header-text{
         margin-top: -90%;;
@@ -483,7 +483,7 @@ nav .fa-regular, nav .fa-solid{
     .about-col-1{
         display: block;
         flex-basis: 100%;
-        margin-top: -600px;
+        margin-top: -700px;
     }
     .about-col-2{
         flex-basis: 100%;
