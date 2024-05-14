@@ -112,7 +112,7 @@ nav ul li a:hover::after{
 }
 
 .profile{
-    width: 30%;
+    width: 28%;
     margin-top: 0.1%;
     margin-left: 20%;
     border-radius: 2%;
@@ -483,7 +483,7 @@ nav .fa-regular, nav .fa-solid{
     .about-col-1{
         display: block;
         flex-basis: 100%;
-        margin-top: -420px;
+        margin-top: -460px;
     }
     .about-col-2{
         flex-basis: 100%;
