@@ -17,7 +17,7 @@ body{
 .text{
     display: inline-block;
     border-right: 5px solid;
-    width: 35%;
+    width: 30%;
     white-space: nowrap;
     overflow: hidden;
     animation: 
