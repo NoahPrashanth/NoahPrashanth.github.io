@@ -17,7 +17,7 @@ body{
 .text{
     display: inline-block;
     border-right: 5px solid;
-    width: 34%;
+    width: 279px;
     white-space: nowrap;
     overflow: hidden;
     animation: 
@@ -429,7 +429,7 @@ nav .fa-regular, nav .fa-solid{
         margin-top: -70%;
     }
     .text{
-        width: 52%;
+        width: 150px;
     }
     .header-text{
         margin-top: -90%;;
